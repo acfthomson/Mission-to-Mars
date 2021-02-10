@@ -1,4 +1,6 @@
 scraping_practice.ipynb
+templates/index_1.html
+templates/assets
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
