@@ -1,7 +1,7 @@
 # Mission-to-Mars
 
 ## Overview
-A client has been admiring images of Mars’s hemispheres online and realized that the site is scraping-friendly. They would like their current web app re-designed to include all four of the hemisphere images. Using BeautifulSoup, Splinter, and Pandas to scrape full-resolution images of Mars’s hemispheres and the titles of those images, the scraped data was stored in a Mongo database, and displayed in a re-designed web app using Flash to accommodate these images.
+A client was admiring images of Mars’s hemispheres online and realized that the site is scraping-friendly. They would like their current web app re-designed to include all four of the hemisphere images. Using BeautifulSoup, Splinter, and Pandas to scrape full-resolution images of Mars’s hemispheres and the titles of those images, the scraped data was stored in a Mongo database, and displayed in a re-designed web app using Flask to accommodate these images.
 
 ## Resources
 - Python v3.x
